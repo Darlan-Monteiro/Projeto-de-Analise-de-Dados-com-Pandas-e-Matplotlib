@@ -15,10 +15,10 @@ Análise de Dados:
 - Cálculo do Ticket Médio Mensal: Determinação do valor médio dos contratos mensais dos clientes.
 
 Visualização de Dados:
-Gráficos de barras para mostrar a distribuição dos contratos por área e a distribuição dos funcionários por área.
+-Gráficos de barras para mostrar a distribuição dos contratos por área e a distribuição dos funcionários por área.
 
 Resultados:
-Exibição dos principais resultados, incluindo faturamento, folha salarial total, percentual de funcionários que fecharam contratos e ticket médio mensal.
+-Exibição dos principais resultados, incluindo faturamento, folha salarial total, percentual de funcionários que fecharam contratos e ticket médio mensal.
 
 Requisitos
 - Python 3.x
